@@ -1,0 +1,22 @@
+# Build outputs
+build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+*.log
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+.cxx/
+
+# OS
+Thumbs.db
+
+# Phase 0 probe secrets
+pc/.probe-token
+pc/.dashboard-password

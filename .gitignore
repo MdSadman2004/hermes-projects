@@ -1,0 +1,22 @@
+# Build output
+**/build/
+**/.gradle/
+**/local.properties
+**/*.iml
+**/.idea/
+**/.kotlin/
+hermes-mobile/pc/vendor/
+hermes-mobile/pc/__pycache__/
+hermes-mobile/build_log.txt
+hermes-mobile/build-debug.log
+hermes-mobile/hermes-mobile-*.apk
+hermes-mobile/_archived-tests/
+hermes-mobile/pc/_WriteProbe.kt
+hermes-mobile/pc/_WriteProbe.kt.bak
+hermes-mobile/pc/probe_*.py
+hermes-mobile/pc/render_qr.py
+hermes-mobile/pc/collect-diagnostics.ps1
+hermes-mobile/pc/setup-lan.ps1
+hermes-mobile/build-debug.bat
+hermes-mobile/build_log.txt
+hermes-mobile/build-debug.log
