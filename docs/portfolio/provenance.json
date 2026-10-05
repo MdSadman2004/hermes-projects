@@ -1,0 +1,29 @@
+{
+  "kind": "source-guide",
+  "source_head": "8f18ca71b528ea84c28d52bb652cd909224911cc",
+  "source_tree": "07f8da1216e0018cf86679f6b8c285e2dc444251",
+  "source_repository": "https://github.com/MdSadman2004/hermes-projects",
+  "nodes": [
+    {
+      "label": "Nested application",
+      "path": "hermes-mobile/app/build.gradle.kts",
+      "detail": "Android module configuration"
+    },
+    {
+      "label": "Project index",
+      "path": "hermes-mobile/PROJECT-INDEX.md",
+      "detail": "Navigation through the nested project"
+    },
+    {
+      "label": "Original guide",
+      "path": "hermes-mobile/README.md",
+      "detail": "Snapshot-specific setup and design context"
+    }
+  ],
+  "caption": "Source guide drawn from repository files; not a runtime screenshot or fresh benchmark.",
+  "generated_by": "render_guides.py",
+  "image_dimensions": [
+    1600,
+    960
+  ]
+}
